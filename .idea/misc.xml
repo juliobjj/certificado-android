@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/my-workspace/certificado-android/app/src/main/res/drawable/ic_android.xml" value="0.14322916666666666" />
         <entry key="..\:/my-workspace/certificado-android/app/src/main/res/drawable/ic_favorite.xml" value="0.26614583333333336" />
+        <entry key="..\:/my-workspace/certificado-android/app/src/main/res/drawable/ic_notification.xml" value="0.14322916666666666" />
         <entry key="..\:/my-workspace/certificado-android/app/src/main/res/drawable/ic_snake.xml" value="0.26614583333333336" />
         <entry key="..\:/my-workspace/certificado-android/app/src/main/res/drawable/ic_toast.xml" value="0.26614583333333336" />
         <entry key="..\:/my-workspace/certificado-android/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/my-workspace/certificado-android/app/src/main/res/layout/fragment_main.xml" value="0.25" />
+        <entry key="..\:/my-workspace/certificado-android/app/src/main/res/layout/fragment_main.xml" value="0.18236173393124067" />
+        <entry key="..\:/my-workspace/certificado-android/app/src/main/res/layout/fragment_notification.xml" value="0.12708333333333333" />
         <entry key="..\:/my-workspace/certificado-android/app/src/main/res/layout/fragment_toast_snake.xml" value="0.25" />
       </map>
     </option>

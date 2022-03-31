@@ -35,7 +35,5 @@ class ToastSnakeFragment : Fragment(R.layout.fragment_toast_snake) {
                 .setAction(R.string.ok) { toast("I am a snake!") }
                 .show()
         }
-
     }
-
 }
